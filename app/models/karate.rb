@@ -1,0 +1,2 @@
+class Karate < ApplicationRecord
+end
